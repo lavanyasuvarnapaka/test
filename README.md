@@ -1,2 +1,2 @@
 # test
-test jango
+test jango for project
